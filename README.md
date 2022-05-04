@@ -1,6 +1,13 @@
 
 
 ## Hello! My name is Enrique Silva
+
+- 👨‍💻 I have been working in the technology area for over 9 years.
+- 👨‍🎓 I have a degree in Information Systems.
+- 📘 I am currently studying React JS.
+- 📚 certification in Scrum
+- 🌎 I am Brazilian
+
 <div>
   <a href="https://github.com/EnriqueSFlor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnriqueSFlor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
