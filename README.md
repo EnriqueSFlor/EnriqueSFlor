@@ -45,7 +45,7 @@
 
  </div>
    <hr>
-        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=EnriqueSFlor&row=1&theme=onedark"/>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=EnriqueSFlor&row=1&theme=nord"/>
 
 
 
