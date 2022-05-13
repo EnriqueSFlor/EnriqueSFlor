@@ -43,6 +43,16 @@
 
 
 
+ </div>
+   <hr>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=moisesest3vao&row=1&theme=tokyonight"/>
+  <h3 align="center"> Total de visitas no meu perfil 🕵️ <h3/>
+
+  <br>
+    
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/moisesest3vao/count.svg" />
+ </p>
 
 
 
