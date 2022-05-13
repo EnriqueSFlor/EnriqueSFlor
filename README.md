@@ -46,13 +46,6 @@
  </div>
    <hr>
         <img width="99%" src="https://github-profile-trophy.vercel.app/?username=EnriqueSFlor&row=1&theme=tokyonight"/>
-  <h3 align="center"> Total de visitas no meu perfil 🕵️ <h3/>
-
-  <br>
-    
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/EnriqueSFlor/count.svg" />
- </p>
 
 
 
