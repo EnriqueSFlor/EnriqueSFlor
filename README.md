@@ -4,7 +4,7 @@
 
 - 👨‍💻 I have been working in the technology area for over 10 years.
 - 👨‍🎓 I have a degree in Information Systems.
-- 📘 I am currently studying JavaScript.
+- 📘 I am currently studying .NET
 - 📚 certification in Scrum
 - 🌎 I am Brazilian
 
