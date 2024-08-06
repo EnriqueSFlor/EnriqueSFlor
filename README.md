@@ -2,7 +2,7 @@
 
 ## Hello! My name is Enrique Silva
 
-- 👨‍💻 I have been working in the technology area for over 9 years.
+- 👨‍💻 I have been working in the technology area for over 10 years.
 - 👨‍🎓 I have a degree in Information Systems.
 - 📘 I am currently studying JavaScript.
 - 📚 certification in Scrum
@@ -16,17 +16,7 @@
   <a href="https://github.com/EnriqueSFlor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnriqueSFlor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueSFlor&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Enrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Enrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Enrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Enrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Enrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Enrique-NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    
-</div>
   
   ##
 
